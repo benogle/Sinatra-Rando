@@ -1,0 +1,5 @@
+Garbage for messing around.
+
+Run it local, homie:
+
+rackup -p 4567
